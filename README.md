@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e08763cd-153e-43fe-b68b-5856d0f5022f)
 # JSON 格式化和提取工具
 
 这是一个基于Vue 3的网页应用，用于格式化JSON字符串并提取其中的特定键值对。
